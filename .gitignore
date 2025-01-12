@@ -1,0 +1,9 @@
+# Node.js dependencies
+garages_backend/node_modules/
+garages_backend/dist/
+
+# Node.js dependencies
+garages_frontend/node_modules/
+garages_frontend/.angular/
+garages_frontend/dist/
+garages_frontend/.vscode/
